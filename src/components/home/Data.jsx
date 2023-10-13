@@ -59,7 +59,7 @@ const Data = () => {
             <h3 className="home__subtitle">
                 Full stack developer
             </h3>
-            <p className="home__decription">
+            <p className="home__description">
                 Im Full stack developer based in Tehran, and i'm very passionate and dedicated to my work
             </p>
             <a href="#contact" className="button button--flex">
