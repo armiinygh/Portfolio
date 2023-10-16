@@ -12,7 +12,7 @@ const Contact = () => {
             e.target.reset();
     };
     return (
-        <section className="contact section">
+        <section className="contact section" id="contact">
             <h3 className="section__title">Get in touch</h3>
             <span className="section__subtitle">Contact Me</span>
             <div className="contact__container container grid">
