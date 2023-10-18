@@ -14,7 +14,7 @@ const Testimonials = () => {
     return (
         <section className="testimonial container section" id="#testimonials">
             <h2 className="section__title">Some of My Projects</h2>
-            <span className="section__subtitle">Testimonial</span>
+            <span className="section__subtitle">related to my work or university</span>
             <Swiper className="testimonial__container"
                     loop={true}
                     grabCursor={true}
