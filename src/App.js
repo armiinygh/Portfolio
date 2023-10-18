@@ -10,6 +10,7 @@ import Testimonials from "./components/Testimonials/Testimonials";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/footer/Footer";
 import ScrollUp from "./components/scroll-up/ScrollUp";
+
 const App = () => {
   return (
       <>

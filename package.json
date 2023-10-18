@@ -1,5 +1,5 @@
 {
-  "homepage": "http:/sAlirezayaghoubi.github.io",
+  "homepage": "http:/sAlirezayaghoubi.github.io/Portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "boxicons": "^2.1.4",
     "emailjs": "^4.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -17,8 +18,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" :"npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -42,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.0.0"
   }
 }
