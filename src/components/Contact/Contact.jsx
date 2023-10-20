@@ -38,8 +38,8 @@ const Contact = () => {
                         <div className="contact__card">
                             <i className="bx bxl-telegram contact__card-icon"></i>
                             <h3 className="contact__card-title">Telegram</h3>
-                            <span className="contact__card-data">@armiinygh</span>
-                            <a href="t.me/armiinygh" className="contact__button">Write me
+                            <span className="contact__card-data">@arminygh</span>
+                            <a href="https://t.me/armiinygh" className="contact__button">Write me
                                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                             </a>
                         </div>
