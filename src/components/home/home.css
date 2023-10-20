@@ -68,7 +68,7 @@ span {
 }
 
 .home__image {
-    background: url("../../assets/profile.jpg");
+    background: url("../../assets/profile.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
